@@ -4,4 +4,4 @@
   <p>
 NOTES:
 <h3>This is a selfmade project<h3/>
-<a href="https://github.com/Sowham-3098/DiceRollerApp/raw/master/DiceRoller.apk">Download The App by this link</a> <p/>
+<a href="https://github.com/Sowham-3098/TipTime-App/raw/main/Tip-time.apk">Download The App by this link</a> <p/>
